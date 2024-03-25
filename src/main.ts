@@ -4,6 +4,7 @@ export { Checkbox } from "./components/Checkbox";
 export { Divider } from "./components/Divider";
 export { Dialog } from "./components/Dialog"
 export { Dropdown } from "./components/Dropdown";
+export { FileUploader } from "./components/Dropzone";
 export { InlineMessage } from "./components/InlineMessage";
 export { Input } from "./components/Input";
 export { LinearProgressBar } from './components/LinearProgressBar'
